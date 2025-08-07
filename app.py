@@ -33,7 +33,7 @@ def load_data():
     return df
     
 
-# Cargar datos
+# Cargar datos desde el csv
 data = load_data()
 
 # Graficar serie
